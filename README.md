@@ -183,6 +183,11 @@ SalePricePerAcre = IFERROR(Nashville_Cleaned[Sale Price]/Nashville_Cleaned[acrea
 
 Check out my Power BI file here: [Nashville Power BI Dashboard](NashvilleBI.pbix)
 
+![Dashboard](Photos\BI_Dashboard.png)
+
+*Dashboard when drilling down into an individual city (Nashville) and Filtering the Years*
+![Dashboard](Photos\Dashboard_2.png)
+
 # What I Learned
 
 From working on this project, I've learned new skills in both SQL and Power BI:
